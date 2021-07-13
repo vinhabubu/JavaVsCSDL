@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "src/topica.edu.vn.model",
+        "src/topica.edu.vn.test"
+    ]
+}
