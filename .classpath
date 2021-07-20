@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Arraylist/src"/>
+	<classpathentry kind="src" path="Bai 12/SourceCode/src"/>
+	<classpathentry kind="src" path="Bản sao của document_bai-13_qlkh/Bai 13_QLKH/SourceCode/src"/>
+	<classpathentry kind="src" path="DaTienTrinh/src"/>
+	<classpathentry excluding="topica.edu.vn.model/|topica.edu.vn.test/|topica.edu.vn.io/" kind="src" path="DocTestFile/src"/>
+	<classpathentry kind="src" path="DocTestFile/src/topica.edu.vn.io"/>
+	<classpathentry kind="src" path="DocTestFile/src/topica.edu.vn.model"/>
+	<classpathentry kind="src" path="DocTestFile/src/topica.edu.vn.test"/>
+	<classpathentry kind="src" path="ThuVienJavaAndroi/src"/>
+	<classpathentry kind="output" path="Bai 12/SourceCode/bin"/>
+</classpath>
